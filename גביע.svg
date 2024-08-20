@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- בסיס הגביע -->
+  <rect x="70" y="180" width="60" height="10" fill="#C0C0C0"/>
+  <rect x="85" y="190" width="30" height="10" fill="#A0A0A0"/>
+  
+  <!-- גוף הגביע -->
+  <path d="M60 170 Q60 120 100 100 Q140 120 140 170 L60 170" fill="#FFD700"/>
+  
+  <!-- ידיות הגביע -->
+  <path d="M60 130 Q40 140 40 160 Q40 170 50 170" fill="none" stroke="#FFD700" stroke-width="6"/>
+  <path d="M140 130 Q160 140 160 160 Q160 170 150 170" fill="none" stroke="#FFD700" stroke-width="6"/>
+  
+  <!-- עיטורים על הגביע -->
+  <text x="100" y="140" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="85" y="120" font-family="Arial" font-size="16" fill="#FFFFFF">+</text>
+  <text x="115" y="120" font-family="Arial" font-size="16" fill="#FFFFFF">-</text>
+  <text x="85" y="160" font-family="Arial" font-size="16" fill="#FFFFFF">×</text>
+  <text x="115" y="160" font-family="Arial" font-size="16" fill="#FFFFFF">÷</text>
+</svg>
